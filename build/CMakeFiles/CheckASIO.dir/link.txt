@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CheckASIO.dir/main.cpp.o -o CheckASIO 
