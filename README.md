@@ -1,7 +1,5 @@
 # Asio Library
 
-![Asio Logo](https://example.com/logo.png)
-
 [![Build Status](https://travis-ci.org/yourusername/asio.svg?branch=main)](https://travis-ci.org/yourusername/asio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
